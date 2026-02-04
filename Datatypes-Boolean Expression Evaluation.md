@@ -34,4 +34,4 @@ print("d:", d)
 
 ## Result
 
-Thus the program is executed successfully
+Thus the program is executed successfully.
